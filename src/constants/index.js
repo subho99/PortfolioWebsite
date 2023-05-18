@@ -278,7 +278,27 @@ import {
       image: dsp,
       source_code_link: "https://github.com/subho99/Computational-Data-Science",
     },
-    
+    {
+      name: "Power BI Projects",
+      description:
+        "Solve various Projects highlighting different datasets and problems and different approaches to solutions and vizualisations",
+      tags: [
+        {
+          name: "PowerBI",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "SQL",
+          color: "green-text-gradient",
+        },
+        {
+          name: "BusinessIntelligence",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: dsp,
+      source_code_link: "https://github.com/subho99/PowerBI-Projects",
+    },
     
   ];
   
